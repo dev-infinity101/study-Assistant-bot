@@ -113,5 +113,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Made with ❤️ for students everywhere
-
-**Note**: Make sure to replace `yourusername` in the clone URL with your actual GitHub username.
+@prabOG7
